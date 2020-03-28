@@ -1,4 +1,4 @@
-Hey! Looking for teammates!
+# Hey! Looking for teammates!
 
 We're building a Co-Learning knowledge platform
 Now that so many people are stuck at home, 
@@ -11,4 +11,23 @@ A chat based website where you can navigate the knowledge out there on the web a
 - Meet new people and chat about meaninful stuff!
 - Don't waste your time - learn new things!
 
-Check out our [TechStack](techstack.md) if you'd like to contribute!
+# Tech Stack
+
+- backend: python / flask
+- frontend : JS/react/redux
+- NLP: spacy
+- ML: sklearn
+- sockets chat front and back
+- graph DB: neo4J
+
+GitHub repo is here:
+https://github.com/dcsan/knodes
+
+Join us on channel #proj-knowdes
+
+Looking for:
+- designer!
+- front and backend devs
+- curriculum designer
+
+<img src='poster.png' />
