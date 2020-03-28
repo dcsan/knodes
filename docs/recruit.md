@@ -30,4 +30,8 @@ Looking for:
 - front and backend devs
 - curriculum designer
 
+Project lead: 'DC'
+experienced hackathon dev https://devpost.com/dcsan
+and tech founder
+
 <img src='poster.png' />
