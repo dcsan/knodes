@@ -1,0 +1,17 @@
+.swipey-outer {
+  /* border: 3px solid green; */
+  height: calc(100vh - 100px);
+  overflow: hidden;
+}
+
+.one-slide {
+  border: 1px solid #444;
+}
+
+.slide-detail {
+  /* height: 200px; */
+  border: 1px solid white;
+  background: #00C;
+  color: white;
+}
+

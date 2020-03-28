@@ -1,0 +1,10 @@
+.smooth-outer {
+  position: fixed;
+  top: 50px;
+  left: 0px;
+  width: 100vw;
+  border: 3px solid green;
+  height: calc(100vh - 100px);
+  overflow-y: scroll;
+}
+

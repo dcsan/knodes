@@ -1,0 +1,19 @@
+.frame {
+  min-height: 100px;
+  border: 1px solid;
+  border-color: transparent;
+  padding: 10px;
+}
+
+.frame.active {
+  border-color: blue;
+  background-color: #ccccff;
+}
+
+
+.frame .idx {
+  position: absolute;
+  right: 10px;
+  color: #888;
+}
+
