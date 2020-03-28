@@ -17,7 +17,7 @@ As they chat they can "co-learn" together, making learning fun and making friend
 
 More productive than Facebook! More fun than a MOOC!
 
-Join us :D
+[Join us :D](docs/recruit.md)
 
 <img src='./docs/cover.png'>
 
